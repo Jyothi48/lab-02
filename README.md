@@ -7,7 +7,7 @@ constructors
 Getter setter for ownerName
 ShowRoom.java-
 create 3 car objects
-uses instance and static methods
+uses instance and static methods.
 
 
 
